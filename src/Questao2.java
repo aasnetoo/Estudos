@@ -11,5 +11,7 @@ public class Questao2 {
         double soma = (double) idade + CONSTANTE;
         System.out.println("O número da sorte é: "+soma);
 
+
     }
 }
+
